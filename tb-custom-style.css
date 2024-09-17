@@ -1,0 +1,20 @@
+.header-wrap {
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1)!important;
+}
+
+.header-wrap-inner {
+  padding: 15px 70px!important;
+}
+
+.jw-is-header-affix .header-wrap__inner {
+  padding: 15px 55px!important;
+}
+
+.jw-mobile-menu {
+  height: 70px!important;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.jw-menu-clone {
+  padding: 80px 20px 20px!important;
+}
