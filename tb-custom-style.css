@@ -43,3 +43,7 @@ h3.jw-heading-70 {
 .jw-is-slideshow:not(.jw-is-header-affix) .jw-header-logo img {
   filter: brightness(0) invert(1);
 }
+
+.banner-lg .jw-slideshow-title {
+  font-weight: 700;
+}
