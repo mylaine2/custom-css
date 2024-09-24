@@ -47,3 +47,7 @@ h3.jw-heading-70 {
 .banner-lg .jw-slideshow-title {
   font-weight: 700;
 }
+
+footer > .jw-strip__content-container {
+  padding: 30px;
+}
