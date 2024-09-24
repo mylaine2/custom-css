@@ -32,6 +32,20 @@ h3.jw-heading-70 {
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
+.jw-submenu {
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+.jw-submenu .jw-menu-link {
+  text-decoration: none!important;
+}
+
+.jw-submenu .jw-menu-item >.jw-menu-link:hover, 
+.jw-submenu .jw-menu-is-hover>.jw-menu-link {
+  background: rgba(77, 77, 77, 0.1);
+}
+
 .jw-mobile-menu__button {
   color: inherit!important;
 }
