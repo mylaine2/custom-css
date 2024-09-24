@@ -1,3 +1,19 @@
+@media (max-width: 768px) {
+  body>div, :host>div {
+    line-height: 1.6;
+    font-size: 1.6rem;
+  }
+}
+
+h3.jw-heading-70 {
+  font-size: 2.5rem !important;
+}
+
+.jw-btn {
+  font-size: 1.8rem!important;
+  padding: 15px 30px!important;;
+}
+
 .header-wrap {
   box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.1)!important;
 }
