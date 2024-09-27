@@ -64,7 +64,7 @@ h3.jw-heading-70 {
 }
 
 footer > .jw-strip__content-container {
-  padding: 30px;
+  padding-block: 20px;
 }
 
 .jw-strip--color-shaded {
