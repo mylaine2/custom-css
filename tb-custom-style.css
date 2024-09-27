@@ -11,7 +11,7 @@ h3.jw-heading-70 {
 
 .jw-btn {
   font-size: 1.8rem!important;
-  padding: 12px 30px!important;;
+  padding: 15px 30px!important;;
 }
 
 .header-wrap {
@@ -32,9 +32,17 @@ h3.jw-heading-70 {
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
+.jw-mobile-menu__button {
+  color: inherit!important;
+}
+
+.jw-menu-clone {
+  padding: 85px 20px 20px!important;
+}
+
 .jw-submenu {
-  background: #ffffff;
-  border-radius: 20px;
+  background: #ffffff!important;
+  border-radius: 20px!important;
 }
 
 .jw-submenu .jw-menu-link {
@@ -43,15 +51,7 @@ h3.jw-heading-70 {
 
 .jw-submenu .jw-menu-item >.jw-menu-link:hover, 
 .jw-submenu .jw-menu-is-hover>.jw-menu-link {
-  background: rgba(77, 77, 77, 0.1);
-}
-
-.jw-mobile-menu__button {
-  color: inherit!important;
-}
-
-.jw-menu-clone {
-  padding: 85px 20px 20px!important;
+  background: rgba(77, 77, 77, 0.1)!important;
 }
 
 .jw-is-slideshow:not(.jw-is-header-affix) .jw-header-logo img {
@@ -64,4 +64,8 @@ h3.jw-heading-70 {
 
 footer > .jw-strip__content-container {
   padding: 30px;
+}
+
+.jw-strip--color-shaded {
+  background-color: #f7f9fa!important;
 }
