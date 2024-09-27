@@ -11,7 +11,7 @@ h3.jw-heading-70 {
 
 .jw-btn {
   font-size: 1.8rem!important;
-  padding: 15px 30px!important;;
+  padding: 12px 30px!important;;
 }
 
 .header-wrap {
@@ -43,6 +43,7 @@ h3.jw-heading-70 {
 .jw-submenu {
   background: #ffffff!important;
   border-radius: 20px!important;
+  overflow: hidden;
 }
 
 .jw-submenu .jw-menu-link {
